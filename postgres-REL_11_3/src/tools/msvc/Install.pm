@@ -652,7 +652,7 @@ sub CopyIncludeFiles
 
 	CopyFiles(
 		'Public headers', $target . '/include/',
-		'src/include/',   'postgres_ext.h',
+		'src/include/',   'zql_ext.h',
 		'pg_config.h',    'pg_config_ext.h',
 		'pg_config_os.h', 'dynloader.h',
 		'pg_config_manual.h');

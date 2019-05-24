@@ -46,7 +46,7 @@
 #ifndef C_H
 #define C_H
 
-#include "postgres_ext.h"
+#include "zql_ext.h"
 
 /* Must undef pg_config_ext.h symbols before including pg_config.h */
 #undef PG_INT64_TYPE
@@ -462,7 +462,7 @@ typedef double float8;
  * CommandId
  */
 
-/* typedef Oid is in postgres_ext.h */
+/* typedef Oid is in zql_ext.h */
 
 /*
  * regproc is the type name used in the include/catalog headers, but

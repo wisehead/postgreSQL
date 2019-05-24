@@ -1,6 +1,6 @@
 /*-------------------------------------------------------------------------
  *
- * postgres_ext.h
+ * zql_ext.h
  *
  *	   This file contains declarations of things that are visible everywhere
  *	in PostgreSQL *and* are visible to clients of frontend interface libraries.
@@ -15,7 +15,7 @@
  *	use header files that are otherwise internal to Postgres to interface
  *	with the backend.
  *
- * src/include/postgres_ext.h
+ * src/include/zql_ext.h
  *
  *-------------------------------------------------------------------------
  */

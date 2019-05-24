@@ -23,10 +23,10 @@ extern "C"
 #include <stdio.h>
 
 /*
- * postgres_ext.h defines the backend's externally visible types,
+ * zql_ext.h defines the backend's externally visible types,
  * such as Oid.
  */
-#include "postgres_ext.h"
+#include "zql_ext.h"
 
 /*
  * Option flags for PQcopyResult
