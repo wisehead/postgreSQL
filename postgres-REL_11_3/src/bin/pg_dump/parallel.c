@@ -49,7 +49,7 @@
  * state, and must be NULL in other states.
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #ifndef WIN32
 #include <sys/wait.h>

@@ -671,7 +671,7 @@ sub CopyIncludeFiles
 	CopyFiles(
 		'Internal headers',
 		$target . '/include/internal/',
-		'src/include/', 'c.h', 'port.h', 'postgres_fe.h');
+		'src/include/', 'c.h', 'port.h', 'zql_fe.h');
 	lcopy('src/include/libpq/pqcomm.h', $target . '/include/internal/libpq/')
 	  || croak 'Could not copy pqcomm.h';
 

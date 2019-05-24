@@ -21,7 +21,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_backup_archiver.h"
 #include "pg_backup_utils.h"

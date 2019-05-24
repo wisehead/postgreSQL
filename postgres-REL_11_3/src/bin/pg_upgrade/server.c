@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/server.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "fe_utils/connect.h"
 #include "fe_utils/string_utils.h"

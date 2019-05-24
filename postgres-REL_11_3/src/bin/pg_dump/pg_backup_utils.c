@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "parallel.h"
 #include "pg_backup_utils.h"

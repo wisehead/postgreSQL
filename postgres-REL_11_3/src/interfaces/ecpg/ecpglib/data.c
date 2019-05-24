@@ -1,7 +1,7 @@
 /* src/interfaces/ecpg/ecpglib/data.c */
 
 #define POSTGRES_ECPG_INTERNAL
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <float.h>
 #include <math.h>

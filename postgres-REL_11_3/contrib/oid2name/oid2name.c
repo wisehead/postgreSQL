@@ -7,7 +7,7 @@
  *
  * contrib/oid2name/oid2name.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "catalog/pg_class_d.h"
 

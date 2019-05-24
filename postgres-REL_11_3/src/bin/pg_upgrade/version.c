@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/version.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_upgrade.h"
 

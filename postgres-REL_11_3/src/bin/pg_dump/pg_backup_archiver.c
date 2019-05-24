@@ -19,7 +19,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <ctype.h>
 #include <fcntl.h>

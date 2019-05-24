@@ -24,7 +24,7 @@ static const char rcsid[] = "Id: inet_net_ntop.c,v 1.1.2.2 2004/03/09 09:17:27 m
 #ifndef FRONTEND
 #include "zql.h"
 #else
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #endif
 
 #include <sys/socket.h>

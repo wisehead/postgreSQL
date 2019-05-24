@@ -5,7 +5,7 @@
  *
  * src/bin/psql/copy.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "copy.h"
 
 #include <signal.h>

@@ -34,7 +34,7 @@
 
 
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_upgrade.h"
 #include "catalog/pg_class_d.h"

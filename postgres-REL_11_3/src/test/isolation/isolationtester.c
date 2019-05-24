@@ -5,7 +5,7 @@
  *		Runs an isolation test specified by a spec file.
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <sys/time.h>
 #ifdef HAVE_SYS_SELECT_H

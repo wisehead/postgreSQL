@@ -5,7 +5,7 @@
  *
  * src/bin/psql/crosstabview.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "common.h"
 #include "crosstabview.h"

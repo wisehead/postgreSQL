@@ -38,7 +38,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <ctype.h>
 #ifdef HAVE_TERMIOS_H

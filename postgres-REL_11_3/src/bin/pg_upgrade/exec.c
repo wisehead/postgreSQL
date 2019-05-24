@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/exec.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <fcntl.h>
 

@@ -28,7 +28,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <signal.h>
 #include <time.h>

@@ -7,7 +7,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_rewind.h"
 

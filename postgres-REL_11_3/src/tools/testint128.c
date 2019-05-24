@@ -15,7 +15,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 /*
  * By default, we test the non-native implementation in int128.h; but

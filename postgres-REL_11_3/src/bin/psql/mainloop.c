@@ -5,7 +5,7 @@
  *
  * src/bin/psql/mainloop.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "mainloop.h"
 
 #include "command.h"

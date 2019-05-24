@@ -5,7 +5,7 @@
  *
  * src/bin/psql/command.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "command.h"
 
 #include <ctype.h>

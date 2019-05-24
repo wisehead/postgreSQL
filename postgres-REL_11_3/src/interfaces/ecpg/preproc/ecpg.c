@@ -3,7 +3,7 @@
 /* Main for ecpg, the PostgreSQL embedded SQL precompiler. */
 /* Copyright (c) 1996-2018, PostgreSQL Global Development Group */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <unistd.h>
 

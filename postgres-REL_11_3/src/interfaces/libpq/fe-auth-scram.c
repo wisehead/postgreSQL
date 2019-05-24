@@ -12,7 +12,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "common/base64.h"
 #include "common/saslprep.h"

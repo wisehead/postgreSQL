@@ -1,6 +1,6 @@
 /* src/interfaces/ecpg/pgtypeslib/interval.c */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include <time.h>
 #include <math.h>
 #include <limits.h>

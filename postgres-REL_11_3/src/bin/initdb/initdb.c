@@ -46,7 +46,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <dirent.h>
 #include <fcntl.h>

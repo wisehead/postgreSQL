@@ -22,7 +22,7 @@
 #ifndef FRONTEND
 #include "zql.h"
 #else
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #endif
 
 #include "common/saslprep.h"

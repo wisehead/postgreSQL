@@ -13,7 +13,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 /*
  * This is much trickier than it looks.  We are #include'ing kwlist.h

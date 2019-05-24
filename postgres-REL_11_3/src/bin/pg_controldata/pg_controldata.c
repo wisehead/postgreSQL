@@ -10,7 +10,7 @@
  */
 
 /*
- * We have to use postgres.h not postgres_fe.h here, because there's so much
+ * We have to use postgres.h not zql_fe.h here, because there's so much
  * backend-only stuff in the XLOG include files we need.  But we need a
  * frontend-ish environment otherwise.  Hence this ugly hack.
  */

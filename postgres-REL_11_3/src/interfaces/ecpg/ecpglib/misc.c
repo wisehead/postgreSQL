@@ -1,7 +1,7 @@
 /* src/interfaces/ecpg/ecpglib/misc.c */
 
 #define POSTGRES_ECPG_INTERNAL
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <limits.h>
 #include <unistd.h>

@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <time.h>
 #include <unistd.h>

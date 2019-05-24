@@ -5,7 +5,7 @@
  * src/backend/utils/mb/encnames.c
  */
 #ifdef FRONTEND
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #else
 #include "zql.h"
 #include "utils/builtins.h"

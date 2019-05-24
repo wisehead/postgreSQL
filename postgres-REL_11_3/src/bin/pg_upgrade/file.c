@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/file.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "access/visibilitymap.h"
 #include "common/file_perm.h"

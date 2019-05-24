@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/tablespace.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_upgrade.h"
 

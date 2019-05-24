@@ -5,7 +5,7 @@
  *
  * src/tools/findoidjoins/findoidjoins.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "catalog/pg_class_d.h"
 

@@ -16,7 +16,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "pg_regress.h"
 

@@ -7,7 +7,7 @@
  */
 
 #define POSTGRES_ECPG_INTERNAL
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "catalog/pg_type_d.h"
 

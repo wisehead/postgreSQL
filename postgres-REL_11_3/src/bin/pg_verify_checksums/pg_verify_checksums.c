@@ -7,7 +7,7 @@
  *
  *	src/bin/pg_verify_checksums/pg_verify_checksums.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <dirent.h>
 #include <sys/stat.h>

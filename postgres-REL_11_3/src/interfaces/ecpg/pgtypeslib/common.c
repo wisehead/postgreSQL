@@ -1,6 +1,6 @@
 /* src/interfaces/ecpg/pgtypeslib/common.c */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include "extern.h"
 #include "pgtypes.h"

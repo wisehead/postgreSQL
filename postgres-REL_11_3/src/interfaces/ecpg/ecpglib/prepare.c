@@ -1,7 +1,7 @@
 /* src/interfaces/ecpg/ecpglib/prepare.c */
 
 #define POSTGRES_ECPG_INTERNAL
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <ctype.h>
 

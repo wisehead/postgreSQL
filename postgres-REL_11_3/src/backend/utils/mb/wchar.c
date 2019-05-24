@@ -6,7 +6,7 @@
  */
 /* can be used in either frontend or backend */
 #ifdef FRONTEND
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #else
 #include "zql.h"
 #endif

@@ -5,7 +5,7 @@
  *
  * src/bin/psql/startup.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #ifndef WIN32
 #include <unistd.h>

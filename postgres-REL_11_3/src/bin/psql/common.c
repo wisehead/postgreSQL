@@ -5,7 +5,7 @@
  *
  * src/bin/psql/common.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "common.h"
 
 #include <ctype.h>

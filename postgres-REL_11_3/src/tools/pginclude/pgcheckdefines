@@ -278,7 +278,7 @@ sub checkit
 
 	#
 	# If current file is a .h file, it's OK for it to assume that one of the
-	# base headers (postgres.h or postgres_fe.h) has been included.
+	# base headers (postgres.h or zql_fe.h) has been included.
 	#
 	if ($file =~ m/\.h$/)
 	{
@@ -286,7 +286,7 @@ sub checkit
 		{
 			return if $deffile eq 'src/include/c.h';
 			return if $deffile eq 'src/include/postgres.h';
-			return if $deffile eq 'src/include/postgres_fe.h';
+			return if $deffile eq 'src/include/zql_fe.h';
 			return if $deffile eq 'src/include/pg_config.h';
 			return if $deffile eq 'src/include/pg_config_manual.h';
 		}

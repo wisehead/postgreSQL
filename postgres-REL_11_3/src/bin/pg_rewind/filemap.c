@@ -8,7 +8,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <sys/stat.h>
 #include <unistd.h>

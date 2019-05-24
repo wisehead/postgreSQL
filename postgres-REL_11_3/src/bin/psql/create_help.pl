@@ -81,7 +81,7 @@ print $cfile_handle "/*
 
 #define N_(x) (x)				/* gettext noop */
 
-#include \"postgres_fe.h\"
+#include \"zql_fe.h\"
 #include \"$hfile\"
 
 ";

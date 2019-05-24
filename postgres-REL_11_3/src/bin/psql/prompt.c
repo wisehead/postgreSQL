@@ -5,7 +5,7 @@
  *
  * src/bin/psql/prompt.c
  */
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #ifdef WIN32
 #include <io.h>

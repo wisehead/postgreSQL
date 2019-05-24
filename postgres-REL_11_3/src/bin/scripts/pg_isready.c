@@ -9,7 +9,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "common.h"
 
 #define DEFAULT_CONNECT_TIMEOUT "3"

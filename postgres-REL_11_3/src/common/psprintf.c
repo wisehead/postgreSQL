@@ -22,7 +22,7 @@
 
 #else
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 /* It's possible we could use a different value for this in frontend code */
 #define MaxAllocSize	((Size) 0x3fffffff) /* 1 gigabyte - 1 */

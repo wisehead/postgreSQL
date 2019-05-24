@@ -31,7 +31,7 @@
 #define FD_SETSIZE 1024			/* set before winsock2.h is included */
 #endif							/* ! WIN32 */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 #include "fe_utils/conditional.h"
 
 #include "getopt_long.h"

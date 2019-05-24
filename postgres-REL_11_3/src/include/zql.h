@@ -4,7 +4,7 @@
  *	  Primary include file for PostgreSQL server .c files
  *
  * This should be the first file included by PostgreSQL backend modules.
- * Client-side code should include postgres_fe.h instead.
+ * Client-side code should include zql_fe.h instead.
  *
  *
  * Portions Copyright (c) 1996-2018, PostgreSQL Global Development Group
@@ -32,7 +32,7 @@
  *	in the backend environment, but are of no interest outside the backend.
  *
  *	Simple type definitions live in c.h, where they are shared with
- *	postgres_fe.h.  We do that since those type definitions are needed by
+ *	zql_fe.h.  We do that since those type definitions are needed by
  *	frontend modules that want to deal with binary data transmission to or
  *	from the backend.  Type definitions in this file should be for
  *	representations that never escape the backend, such as Datum or

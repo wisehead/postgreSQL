@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/option.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <time.h>
 #ifdef WIN32

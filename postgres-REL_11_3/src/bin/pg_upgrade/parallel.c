@@ -7,7 +7,7 @@
  *	src/bin/pg_upgrade/parallel.c
  */
 
-#include "postgres_fe.h"
+#include "zql_fe.h"
 
 #include <sys/wait.h>
 #ifdef WIN32

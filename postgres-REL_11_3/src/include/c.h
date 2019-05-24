@@ -2,7 +2,7 @@
  *
  * c.h
  *	  Fundamental C definitions.  This is included by every .c file in
- *	  PostgreSQL (via either postgres.h or postgres_fe.h, as appropriate).
+ *	  PostgreSQL (via either postgres.h or zql_fe.h, as appropriate).
  *
  *	  Note that the definitions here are not intended to be exposed to clients
  *	  of the frontend interface libraries --- so we don't worry much about
