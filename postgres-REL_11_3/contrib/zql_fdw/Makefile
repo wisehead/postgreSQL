@@ -18,7 +18,7 @@ PGXS := $(shell $(PG_CONFIG) --pgxs)
 include $(PGXS)
 else
 SHLIB_PREREQS = submake-libpq
-subdir = contrib/postgres_fdw
+subdir = contrib/zql_fdw
 top_builddir = ../..
 include $(top_builddir)/src/Makefile.global
 include $(top_srcdir)/contrib/contrib-global.mk
