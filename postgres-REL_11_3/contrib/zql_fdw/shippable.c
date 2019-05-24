@@ -23,7 +23,7 @@
 
 #include "zql.h"
 
-#include "postgres_fdw.h"
+#include "zql_fdw.h"
 
 #include "access/transam.h"
 #include "catalog/dependency.h"

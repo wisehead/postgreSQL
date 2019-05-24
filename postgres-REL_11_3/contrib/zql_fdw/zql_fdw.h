@@ -1,12 +1,12 @@
 /*-------------------------------------------------------------------------
  *
- * postgres_fdw.h
+ * zql_fdw.h
  *		  Foreign-data wrapper for remote PostgreSQL servers
  *
  * Portions Copyright (c) 2012-2018, PostgreSQL Global Development Group
  *
  * IDENTIFICATION
- *		  contrib/postgres_fdw/postgres_fdw.h
+ *		  contrib/postgres_fdw/zql_fdw.h
  *
  *-------------------------------------------------------------------------
  */

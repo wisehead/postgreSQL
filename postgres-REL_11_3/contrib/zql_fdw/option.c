@@ -12,7 +12,7 @@
  */
 #include "zql.h"
 
-#include "postgres_fdw.h"
+#include "zql_fdw.h"
 
 #include "access/reloptions.h"
 #include "catalog/pg_foreign_server.h"

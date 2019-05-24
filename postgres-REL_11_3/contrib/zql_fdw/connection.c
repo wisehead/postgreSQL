@@ -12,7 +12,7 @@
  */
 #include "zql.h"
 
-#include "postgres_fdw.h"
+#include "zql_fdw.h"
 
 #include "access/htup_details.h"
 #include "catalog/pg_user_mapping.h"

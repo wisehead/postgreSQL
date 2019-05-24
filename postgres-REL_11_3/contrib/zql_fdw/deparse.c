@@ -33,7 +33,7 @@
  */
 #include "zql.h"
 
-#include "postgres_fdw.h"
+#include "zql_fdw.h"
 
 #include "access/heapam.h"
 #include "access/htup_details.h"

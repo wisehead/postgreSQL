@@ -3,7 +3,7 @@
 -- complain if script is sourced in psql, rather than via CREATE EXTENSION
 \echo Use "CREATE EXTENSION postgres_fdw" to load this file. \quit
 
-CREATE FUNCTION postgres_fdw_handler()
+CREATE FUNCTION zql_fdw.handler()
 RETURNS fdw_handler
 AS 'MODULE_PATHNAME'
 LANGUAGE C STRICT;
@@ -14,5 +14,5 @@ AS 'MODULE_PATHNAME'
 LANGUAGE C STRICT;
 
 CREATE FOREIGN DATA WRAPPER postgres_fdw
-  HANDLER postgres_fdw_handler
+  HANDLER zql_fdw.handler
   VALIDATOR postgres_fdw_validator;

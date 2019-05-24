@@ -12,7 +12,7 @@
  */
 #include "zql.h"
 
-#include "postgres_fdw.h"
+#include "zql_fdw.h"
 
 #include "access/htup_details.h"
 #include "access/sysattr.h"
@@ -275,7 +275,7 @@ typedef struct
 /*
  * SQL functions
  */
-PG_FUNCTION_INFO_V1(postgres_fdw_handler);
+PG_FUNCTION_INFO_V1(zql_fdw.handler);
 
 /*
  * FDW callback routines
@@ -461,7 +461,7 @@ static void merge_fdw_options(PgFdwRelationInfo *fpinfo,
  * to my callback routines.
  */
 Datum
-postgres_fdw_handler(PG_FUNCTION_ARGS)
+zql_fdw.handler(PG_FUNCTION_ARGS)
 {
 	FdwRoutine *routine = makeNode(FdwRoutine);
 
