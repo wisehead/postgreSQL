@@ -19,7 +19,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "storage/bufmgr.h"
 #include "storage/buf_internals.h"

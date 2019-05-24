@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/amapi.h"
 #include "access/generic_xlog.h"

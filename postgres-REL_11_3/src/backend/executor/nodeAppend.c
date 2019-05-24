@@ -55,7 +55,7 @@
  *							person employee student student-emp
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/execdebug.h"
 #include "executor/execPartition.h"

@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/xact.h"
 #include "commands/async.h"

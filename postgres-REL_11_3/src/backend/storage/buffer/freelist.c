@@ -13,7 +13,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "port/atomics.h"
 #include "storage/buf_internals.h"

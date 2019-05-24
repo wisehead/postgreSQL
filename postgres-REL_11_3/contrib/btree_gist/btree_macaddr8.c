@@ -1,7 +1,7 @@
 /*
  * contrib/btree_gist/btree_macaddr8.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "btree_gist.h"
 #include "btree_utils_num.h"

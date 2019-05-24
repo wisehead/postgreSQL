@@ -51,7 +51,7 @@
 
 
 #ifndef FRONTEND
-#include "postgres.h"
+#include "zql.h"
 #else
 #include "postgres_fe.h"
 #endif

@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/tuptoaster.h"
 #include "catalog/pg_language.h"

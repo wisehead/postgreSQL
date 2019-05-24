@@ -17,7 +17,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/hash.h"
 #include "access/htup_details.h"

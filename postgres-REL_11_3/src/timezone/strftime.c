@@ -38,7 +38,7 @@
  *	  src/timezone/strftime.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <fcntl.h>
 

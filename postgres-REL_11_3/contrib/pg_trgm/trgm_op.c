@@ -1,7 +1,7 @@
 /*
  * contrib/pg_trgm/trgm_op.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 

@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "tsearch/ts_cache.h"
 #include "tsearch/ts_utils.h"

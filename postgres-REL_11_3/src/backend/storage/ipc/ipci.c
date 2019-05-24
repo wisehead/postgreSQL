@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/clog.h"
 #include "access/commit_ts.h"

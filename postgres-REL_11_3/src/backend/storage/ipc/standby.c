@@ -15,7 +15,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 #include "access/transam.h"
 #include "access/twophase.h"
 #include "access/xact.h"

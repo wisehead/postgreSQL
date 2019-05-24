@@ -21,7 +21,7 @@
  */
 
 #if !defined(IN_CONFIGURE) && !defined(WIN32)
-#include "postgres.h"
+#include "zql.h"
 #endif
 
 #include <stdio.h>

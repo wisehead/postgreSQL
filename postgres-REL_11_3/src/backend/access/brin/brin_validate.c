@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/amvalidate.h"
 #include "access/brin_internal.h"

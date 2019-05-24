@@ -12,7 +12,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/stratnum.h"
 #include "access/gist.h"

@@ -27,7 +27,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "miscadmin.h"
 #include "nodes/extensible.h"

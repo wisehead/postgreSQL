@@ -24,7 +24,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/hash.h"
 #include "utils/builtins.h"

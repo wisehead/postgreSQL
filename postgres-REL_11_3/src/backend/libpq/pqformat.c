@@ -69,7 +69,7 @@
  *		pq_getmsgend	- verify message fully consumed
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <sys/param.h>
 

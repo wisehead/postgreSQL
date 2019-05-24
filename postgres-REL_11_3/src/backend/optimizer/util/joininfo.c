@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "optimizer/joininfo.h"
 #include "optimizer/pathnode.h"

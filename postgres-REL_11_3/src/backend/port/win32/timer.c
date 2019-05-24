@@ -16,7 +16,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 
 /* Communication area for inter-thread communication */

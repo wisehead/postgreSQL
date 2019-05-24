@@ -22,7 +22,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/pg_operator.h"
 #include "commands/vacuum.h"

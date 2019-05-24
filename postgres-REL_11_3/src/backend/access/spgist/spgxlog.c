@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/bufmask.h"
 #include "access/spgist_private.h"

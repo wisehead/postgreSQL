@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "commands/defrem.h"
 #include "tsearch/dicts/spell.h"

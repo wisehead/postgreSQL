@@ -16,7 +16,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 /* System includes */
 #include <a.out.h>

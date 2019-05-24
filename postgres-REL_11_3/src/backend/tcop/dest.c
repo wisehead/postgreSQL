@@ -26,7 +26,7 @@
  *		"destination" portals synchronized.
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/printsimple.h"
 #include "access/printtup.h"

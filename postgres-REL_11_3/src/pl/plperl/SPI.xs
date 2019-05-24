@@ -8,7 +8,7 @@
  **********************************************************************/
 
 /* this must be first: */
-#include "postgres.h"
+#include "zql.h"
 
 /* Defined by Perl */
 #undef _

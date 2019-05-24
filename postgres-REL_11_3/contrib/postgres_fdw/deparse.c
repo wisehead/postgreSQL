@@ -31,7 +31,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "postgres_fdw.h"
 

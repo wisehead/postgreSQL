@@ -11,7 +11,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <unistd.h>
 #ifdef HAVE_CRYPT_H

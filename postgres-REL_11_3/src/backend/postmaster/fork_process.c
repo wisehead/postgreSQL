@@ -9,7 +9,7 @@
  * IDENTIFICATION
  *	  src/backend/postmaster/fork_process.c
  */
-#include "postgres.h"
+#include "zql.h"
 #include "postmaster/fork_process.h"
 
 #include <fcntl.h>

@@ -11,7 +11,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 #include "fmgr.h"
 #include "mb/pg_wchar.h"
 #include "../../Unicode/gbk_to_utf8.map"

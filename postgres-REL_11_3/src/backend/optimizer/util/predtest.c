@@ -13,7 +13,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/pg_proc.h"
 #include "catalog/pg_type.h"

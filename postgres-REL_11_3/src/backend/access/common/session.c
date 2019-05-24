@@ -18,7 +18,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/session.h"
 #include "storage/lwlock.h"

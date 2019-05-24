@@ -5,7 +5,7 @@
  *
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "commands/trigger.h"
 #include "executor/spi.h"

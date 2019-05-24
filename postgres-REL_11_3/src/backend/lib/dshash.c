@@ -29,7 +29,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "lib/dshash.h"
 #include "storage/ipc.h"

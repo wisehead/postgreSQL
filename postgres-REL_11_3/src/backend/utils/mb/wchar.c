@@ -8,7 +8,7 @@
 #ifdef FRONTEND
 #include "postgres_fe.h"
 #else
-#include "postgres.h"
+#include "zql.h"
 #endif
 
 #include "mb/pg_wchar.h"

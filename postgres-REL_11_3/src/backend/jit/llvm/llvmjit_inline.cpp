@@ -21,7 +21,7 @@
 
 extern "C"
 {
-#include "postgres.h"
+#include "zql.h"
 }
 
 #include "jit/llvmjit.h"

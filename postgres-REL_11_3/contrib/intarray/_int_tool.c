@@ -1,7 +1,7 @@
 /*
  * contrib/intarray/_int_tool.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 

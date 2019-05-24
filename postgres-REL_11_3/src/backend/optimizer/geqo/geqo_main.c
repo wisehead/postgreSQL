@@ -22,7 +22,7 @@
 
 /* -- parts of this are adapted from D. Whitley's Genitor algorithm -- */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <math.h>
 

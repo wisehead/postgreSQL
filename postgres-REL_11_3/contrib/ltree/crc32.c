@@ -7,7 +7,7 @@
  * must stay backwards-compatible!
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #ifdef LOWER_NODE
 #include <ctype.h>

@@ -38,7 +38,7 @@
  * Coded from scratch from the algorithm description.
  */
 
-#include "postgres.h"
+#include "zql.h"
 #include "blf.h"
 
 #define GET_32BIT_MSB_FIRST(p) ( \

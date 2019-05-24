@@ -16,7 +16,7 @@
  */
 #define FRONTEND 1
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 

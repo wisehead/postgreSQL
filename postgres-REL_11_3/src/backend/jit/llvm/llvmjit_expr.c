@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <llvm-c/Core.h>
 #include <llvm-c/Target.h>

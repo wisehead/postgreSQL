@@ -55,7 +55,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/sysattr.h"
 #include "access/tupdesc_details.h"

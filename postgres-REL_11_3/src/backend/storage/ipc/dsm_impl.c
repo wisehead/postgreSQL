@@ -46,7 +46,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 #include "miscadmin.h"
 
 #include <fcntl.h>

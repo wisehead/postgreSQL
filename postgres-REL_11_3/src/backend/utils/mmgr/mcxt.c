@@ -19,7 +19,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "mb/pg_wchar.h"
 #include "miscadmin.h"

@@ -29,7 +29,7 @@
  * contrib/pgcrypto/pgcrypto.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 

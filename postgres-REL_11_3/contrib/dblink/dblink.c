@@ -30,7 +30,7 @@
  * PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
  *
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 

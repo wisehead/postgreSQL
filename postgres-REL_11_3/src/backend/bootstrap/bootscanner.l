@@ -13,7 +13,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/attnum.h"
 #include "access/htup.h"

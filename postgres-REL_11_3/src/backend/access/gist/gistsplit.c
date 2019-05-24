@@ -23,7 +23,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/gist_private.h"
 #include "utils/rel.h"

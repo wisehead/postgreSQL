@@ -45,7 +45,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <fcntl.h>
 #include <sys/stat.h>

@@ -18,7 +18,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/tuptoaster.h"
 #include "executor/tstoreReceiver.h"

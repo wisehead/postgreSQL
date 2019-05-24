@@ -12,7 +12,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "fmgr.h"
 #include "utils/builtins.h"

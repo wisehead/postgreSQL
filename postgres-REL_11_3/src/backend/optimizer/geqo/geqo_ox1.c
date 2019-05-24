@@ -33,7 +33,7 @@
 /*															 */
 /*************************************************************/
 
-#include "postgres.h"
+#include "zql.h"
 #include "optimizer/geqo_random.h"
 #include "optimizer/geqo_recombination.h"
 

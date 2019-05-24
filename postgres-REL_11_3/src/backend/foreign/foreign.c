@@ -10,7 +10,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/htup_details.h"
 #include "access/reloptions.h"

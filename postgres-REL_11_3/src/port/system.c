@@ -39,7 +39,7 @@
 #if defined(WIN32) && !defined(__CYGWIN__)
 
 #ifndef FRONTEND
-#include "postgres.h"
+#include "zql.h"
 #else
 #include "postgres_fe.h"
 #endif

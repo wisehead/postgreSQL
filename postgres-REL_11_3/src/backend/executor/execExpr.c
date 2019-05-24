@@ -28,7 +28,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/nbtree.h"
 #include "catalog/objectaccess.h"

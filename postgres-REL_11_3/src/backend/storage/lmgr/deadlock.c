@@ -23,7 +23,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "miscadmin.h"
 #include "pg_trace.h"

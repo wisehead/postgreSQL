@@ -11,7 +11,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "fmgr.h"
 #include "port/pg_bswap.h"

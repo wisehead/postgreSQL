@@ -11,7 +11,7 @@
  *			 src/backend/access/gin/ginxlog.c
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/bufmask.h"
 #include "access/gin_private.h"

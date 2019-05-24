@@ -7,7 +7,7 @@
  * IDENTIFICATION
  *		contrib/pageinspect/ginfuncs.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "pageinspect.h"
 

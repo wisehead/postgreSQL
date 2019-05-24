@@ -29,7 +29,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 #include <unistd.h>

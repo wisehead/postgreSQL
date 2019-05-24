@@ -11,7 +11,7 @@
  *			 src/backend/access/gist/gistxlog.c
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/bufmask.h"
 #include "access/gist_private.h"

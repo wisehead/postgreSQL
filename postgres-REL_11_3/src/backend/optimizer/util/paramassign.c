@@ -48,7 +48,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "nodes/nodeFuncs.h"
 #include "nodes/plannodes.h"

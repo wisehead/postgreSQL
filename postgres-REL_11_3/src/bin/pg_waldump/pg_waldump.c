@@ -10,7 +10,7 @@
  */
 
 #define FRONTEND 1
-#include "postgres.h"
+#include "zql.h"
 
 #include <dirent.h>
 #include <sys/stat.h>

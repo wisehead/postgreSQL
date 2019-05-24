@@ -24,7 +24,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/heapam.h"
 #include "access/heapam_xlog.h"

@@ -13,7 +13,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/parallel.h"
 #include "catalog/catalog.h"

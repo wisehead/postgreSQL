@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/pg_aggregate.h"
 #include "catalog/pg_constraint.h"

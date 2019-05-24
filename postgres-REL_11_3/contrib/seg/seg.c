@@ -7,7 +7,7 @@
   format for these routines is dictated by Postgres architecture.
 ******************************************************************************/
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <float.h>
 

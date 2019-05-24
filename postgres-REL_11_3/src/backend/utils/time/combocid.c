@@ -39,7 +39,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "miscadmin.h"
 #include "access/htup_details.h"

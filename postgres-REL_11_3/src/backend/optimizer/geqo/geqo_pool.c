@@ -21,7 +21,7 @@
 
 /* -- parts of this are adapted from D. Whitley's Genitor algorithm -- */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <float.h>
 #include <limits.h>

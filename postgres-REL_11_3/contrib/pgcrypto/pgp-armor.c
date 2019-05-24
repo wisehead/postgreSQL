@@ -29,7 +29,7 @@
  * contrib/pgcrypto/pgp-armor.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "px.h"
 #include "pgp.h"

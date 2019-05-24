@@ -30,7 +30,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 #include <math.h>

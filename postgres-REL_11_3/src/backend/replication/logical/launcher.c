@@ -15,7 +15,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "funcapi.h"
 #include "miscadmin.h"

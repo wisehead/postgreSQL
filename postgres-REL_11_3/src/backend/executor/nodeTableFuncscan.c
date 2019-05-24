@@ -20,7 +20,7 @@
  *		ExecEndTableFuncscan		releases any storage allocated.
  *		ExecReScanTableFuncscan rescans the function
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "nodes/execnodes.h"
 #include "executor/executor.h"

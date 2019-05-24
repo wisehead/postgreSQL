@@ -8,7 +8,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/genam.h"
 #include "access/heapam.h"

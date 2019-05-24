@@ -20,7 +20,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 /* These are always necessary for a bgworker */
 #include "miscadmin.h"

@@ -25,7 +25,7 @@
  * SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "pageinspect.h"
 

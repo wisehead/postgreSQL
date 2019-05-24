@@ -29,7 +29,7 @@
  * contrib/pgcrypto/internal.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 

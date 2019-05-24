@@ -5,7 +5,7 @@
  *
  **********************************************************************/
 
-#include "postgres.h"
+#include "zql.h"
 
 /* Defined by Perl */
 #undef _

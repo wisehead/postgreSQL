@@ -71,7 +71,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/spgist.h"
 #include "access/stratnum.h"

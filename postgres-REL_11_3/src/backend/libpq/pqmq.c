@@ -11,7 +11,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "libpq/libpq.h"
 #include "libpq/pqformat.h"

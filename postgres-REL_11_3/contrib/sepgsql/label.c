@@ -8,7 +8,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <selinux/label.h>
 

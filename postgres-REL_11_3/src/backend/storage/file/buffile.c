@@ -39,7 +39,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/instrument.h"
 #include "miscadmin.h"

@@ -1,4 +1,4 @@
-#include "postgres.h"
+#include "zql.h"
 
 #include "plpython.h"
 #include "plpy_elog.h"

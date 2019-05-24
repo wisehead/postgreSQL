@@ -16,7 +16,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "utils/builtins.h"
 #include "utils/geo_decls.h"

@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/subtrans.h"
 #include "access/transam.h"

@@ -20,7 +20,7 @@
  *		ExecReScanTidScan	rescans the tid relation.
  *		ExecEndTidScan		releases all storage.
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/sysattr.h"
 #include "catalog/pg_type.h"

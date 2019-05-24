@@ -4,7 +4,7 @@
  * src/pl/plpython/plpy_planobject.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "plpython.h"
 

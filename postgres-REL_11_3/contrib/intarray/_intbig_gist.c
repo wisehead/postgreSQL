@@ -1,7 +1,7 @@
 /*
  * contrib/intarray/_intbig_gist.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/gist.h"
 #include "access/stratnum.h"

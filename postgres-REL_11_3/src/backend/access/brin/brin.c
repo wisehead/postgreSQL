@@ -13,7 +13,7 @@
  * TODO
  *		* ScalarArrayOpExpr (amsearcharray -> SK_SEARCHARRAY)
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/brin.h"
 #include "access/brin_page.h"

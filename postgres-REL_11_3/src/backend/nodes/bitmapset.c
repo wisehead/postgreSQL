@@ -18,7 +18,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/hash.h"
 #include "nodes/pg_list.h"

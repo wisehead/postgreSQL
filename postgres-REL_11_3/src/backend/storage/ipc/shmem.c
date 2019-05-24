@@ -63,7 +63,7 @@
  *	unnecessary.
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/transam.h"
 #include "miscadmin.h"

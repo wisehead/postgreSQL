@@ -16,7 +16,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "common/file_perm.h"
 #include "libpq/libpq-be.h"

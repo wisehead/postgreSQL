@@ -26,7 +26,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/relscan.h"
 #include "access/tsmapi.h"

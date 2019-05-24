@@ -16,7 +16,7 @@
 
 #ifndef FRONTEND
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "utils/memutils.h"
 

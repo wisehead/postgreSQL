@@ -16,7 +16,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/reloptions.h"
 #include "catalog/pg_tablespace.h"

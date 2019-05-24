@@ -8,7 +8,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/dependency.h"
 #include "catalog/objectaccess.h"

@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/execdebug.h"
 #include "executor/nodeNamedtuplestorescan.h"

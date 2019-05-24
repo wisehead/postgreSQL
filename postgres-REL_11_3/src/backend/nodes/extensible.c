@@ -18,7 +18,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "nodes/extensible.h"
 #include "utils/hsearch.h"

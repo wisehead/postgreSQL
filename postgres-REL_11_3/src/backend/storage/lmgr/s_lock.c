@@ -45,7 +45,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 #include <unistd.h>

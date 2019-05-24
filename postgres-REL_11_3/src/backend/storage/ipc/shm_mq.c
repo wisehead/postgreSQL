@@ -16,7 +16,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "miscadmin.h"
 #include "pgstat.h"

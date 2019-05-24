@@ -11,7 +11,7 @@
  *	  src/backend/commands/amcmds.c
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/heapam.h"
 #include "access/htup_details.h"

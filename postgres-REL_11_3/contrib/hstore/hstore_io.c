@@ -1,7 +1,7 @@
 /*
  * contrib/hstore/hstore_io.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 

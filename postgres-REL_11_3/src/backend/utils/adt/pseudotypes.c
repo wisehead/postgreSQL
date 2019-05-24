@@ -20,7 +20,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "libpq/pqformat.h"
 #include "utils/array.h"

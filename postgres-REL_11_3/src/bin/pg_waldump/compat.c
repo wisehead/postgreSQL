@@ -16,7 +16,7 @@
 
 /* ugly hack, same as in e.g pg_controldata */
 #define FRONTEND 1
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 

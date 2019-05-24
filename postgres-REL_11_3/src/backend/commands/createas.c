@@ -22,7 +22,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/reloptions.h"
 #include "access/htup_details.h"

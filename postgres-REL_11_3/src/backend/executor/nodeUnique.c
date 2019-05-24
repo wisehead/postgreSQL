@@ -31,7 +31,7 @@
  *		sorted order.
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/executor.h"
 #include "executor/nodeUnique.h"

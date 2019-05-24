@@ -13,7 +13,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/namespace.h"
 #include "catalog/pg_proc.h"

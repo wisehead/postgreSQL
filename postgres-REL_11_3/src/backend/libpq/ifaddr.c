@@ -17,7 +17,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <unistd.h>
 #include <sys/stat.h>

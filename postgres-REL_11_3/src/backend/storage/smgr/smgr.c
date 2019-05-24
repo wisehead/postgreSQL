@@ -15,7 +15,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "commands/tablespace.h"
 #include "lib/ilist.h"

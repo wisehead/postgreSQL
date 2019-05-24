@@ -44,7 +44,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <signal.h>
 #include <unistd.h>

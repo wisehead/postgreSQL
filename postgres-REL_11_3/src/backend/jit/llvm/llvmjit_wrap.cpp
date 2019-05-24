@@ -13,7 +13,7 @@
 
 extern "C"
 {
-#include "postgres.h"
+#include "zql.h"
 }
 
 #include <llvm/MC/SubtargetFeature.h>

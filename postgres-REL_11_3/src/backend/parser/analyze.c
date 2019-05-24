@@ -22,7 +22,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/sysattr.h"
 #include "catalog/pg_type.h"

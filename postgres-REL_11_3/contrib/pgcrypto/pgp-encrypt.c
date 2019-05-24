@@ -29,7 +29,7 @@
  * contrib/pgcrypto/pgp-encrypt.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 

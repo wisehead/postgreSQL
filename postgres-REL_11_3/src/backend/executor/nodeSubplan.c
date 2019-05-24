@@ -24,7 +24,7 @@
  *		ExecSubPlan  - process a subselect
  *		ExecInitSubPlan - initialize a subselect
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 #include <math.h>

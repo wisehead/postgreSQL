@@ -1,7 +1,7 @@
 /*
  * contrib/btree_gin/btree_gin.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 

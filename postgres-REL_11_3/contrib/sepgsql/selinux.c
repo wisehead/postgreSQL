@@ -9,7 +9,7 @@
  *
  * -------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "lib/stringinfo.h"
 

@@ -28,7 +28,7 @@
  *		ExecIndexOnlyScanReInitializeDSM	reinitialize DSM for fresh scan
  *		ExecIndexOnlyScanInitializeWorker attach to DSM info in parallel worker
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/relscan.h"
 #include "access/visibilitymap.h"

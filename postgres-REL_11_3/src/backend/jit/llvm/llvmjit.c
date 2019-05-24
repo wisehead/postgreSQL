@@ -11,7 +11,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "jit/llvmjit.h"
 #include "jit/llvmjit_emit.h"

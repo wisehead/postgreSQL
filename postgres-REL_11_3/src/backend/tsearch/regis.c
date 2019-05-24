@@ -12,7 +12,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "tsearch/dicts/regis.h"
 #include "tsearch/ts_locale.h"

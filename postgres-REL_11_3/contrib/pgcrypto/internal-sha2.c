@@ -29,7 +29,7 @@
  * contrib/pgcrypto/internal-sha2.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <time.h>
 

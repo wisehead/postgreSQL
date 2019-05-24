@@ -19,7 +19,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "parser/gramparse.h"
 #include "parser/parser.h"

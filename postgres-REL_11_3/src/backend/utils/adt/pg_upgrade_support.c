@@ -9,7 +9,7 @@
  *	src/backend/utils/adt/pg_upgrade_support.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "catalog/binary_upgrade.h"
 #include "catalog/heap.h"

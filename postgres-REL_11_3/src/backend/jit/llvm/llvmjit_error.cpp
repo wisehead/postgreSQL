@@ -16,7 +16,7 @@
 
 extern "C"
 {
-#include "postgres.h"
+#include "zql.h"
 }
 
 #include <llvm/Support/ErrorHandling.h>

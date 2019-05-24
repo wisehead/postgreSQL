@@ -40,7 +40,7 @@
  * result from datumCopy().  See also datumTransfer().
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "utils/datum.h"
 #include "utils/expandeddatum.h"

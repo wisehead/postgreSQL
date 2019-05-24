@@ -26,7 +26,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/hash.h"
 #include "access/hash_xlog.h"

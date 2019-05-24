@@ -11,7 +11,7 @@
  *			src/backend/access/gist/gistutil.c
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <float.h>
 #include <math.h>

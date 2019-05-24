@@ -36,7 +36,7 @@
  * implemented by Jun-ichiro itojun Itoh <itojun@itojun.org>
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <sys/param.h>
 

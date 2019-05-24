@@ -10,7 +10,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "commands/defrem.h"
 #include "tsearch/ts_locale.h"

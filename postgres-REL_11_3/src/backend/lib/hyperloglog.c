@@ -44,7 +44,7 @@
  * IN THE SOFTWARE.
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <math.h>
 

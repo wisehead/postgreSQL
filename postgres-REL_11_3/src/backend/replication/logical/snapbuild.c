@@ -115,7 +115,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <sys/stat.h>
 #include <unistd.h>

@@ -4,7 +4,7 @@
 /* NdBox = [(lowerleft),(upperright)] */
 /* [(xLL(1)...xLL(N)),(xUR(1)...xUR(n))] */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "cubedata.h"
 #include "utils/builtins.h"

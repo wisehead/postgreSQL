@@ -4,7 +4,7 @@
  * src/pl/plpython/plpy_procedure.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/htup_details.h"
 #include "access/transam.h"

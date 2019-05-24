@@ -1,7 +1,7 @@
 /*
  * contrib/btree_gist/btree_gist.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "btree_gist.h"
 

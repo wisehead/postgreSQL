@@ -10,7 +10,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/sysattr.h"
 #include "catalog/pg_namespace.h"

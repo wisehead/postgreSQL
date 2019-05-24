@@ -63,7 +63,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <unistd.h>
 #include <signal.h>

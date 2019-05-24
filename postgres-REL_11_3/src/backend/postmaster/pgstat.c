@@ -16,7 +16,7 @@
  *	src/backend/postmaster/pgstat.c
  * ----------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <unistd.h>
 #include <fcntl.h>

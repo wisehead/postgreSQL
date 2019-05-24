@@ -29,7 +29,7 @@
  * contrib/pgcrypto/px.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "px.h"
 

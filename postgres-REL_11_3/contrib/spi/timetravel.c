@@ -7,7 +7,7 @@
  *
  * Modified by BÖJTHE Zoltán, Hungary, mailto:urdesobt@axelero.hu
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 

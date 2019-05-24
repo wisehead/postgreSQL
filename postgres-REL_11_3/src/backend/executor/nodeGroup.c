@@ -20,7 +20,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/executor.h"
 #include "executor/nodeGroup.h"

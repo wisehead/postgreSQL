@@ -33,7 +33,7 @@
  *		ExecReScanBitmapHeapScan	prepares to rescan the plan.
  *		ExecEndBitmapHeapScan		releases all storage.
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <math.h>
 

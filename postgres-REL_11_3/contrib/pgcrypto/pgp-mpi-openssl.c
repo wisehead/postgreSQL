@@ -28,7 +28,7 @@
  *
  * contrib/pgcrypto/pgp-mpi-openssl.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <openssl/bn.h>
 

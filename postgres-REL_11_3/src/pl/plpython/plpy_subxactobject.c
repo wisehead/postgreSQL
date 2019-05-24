@@ -4,7 +4,7 @@
  * src/pl/plpython/plpy_subxactobject.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/xact.h"
 #include "utils/memutils.h"

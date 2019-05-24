@@ -8,7 +8,7 @@
  *
  * ------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/parallel.h"
 #include "executor/executor.h"

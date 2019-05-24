@@ -36,7 +36,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "lib/ilist.h"
 #include "utils/memdebug.h"

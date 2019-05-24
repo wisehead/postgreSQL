@@ -21,7 +21,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "executor/execParallel.h"
 #include "executor/executor.h"

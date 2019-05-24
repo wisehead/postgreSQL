@@ -29,7 +29,7 @@
  * contrib/pgcrypto/pgp-s2k.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "px.h"
 #include "pgp.h"

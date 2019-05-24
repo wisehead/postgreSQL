@@ -27,7 +27,7 @@
  * header file, but we allow the violation here because the alternative is
  * to modify the machine-generated .c files provided by the Snowball project.
  */
-#include "postgres.h"
+#include "zql.h"
 
 /* Some platforms define MAXINT and/or MININT, causing conflicts */
 #ifdef MAXINT

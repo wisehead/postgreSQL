@@ -21,7 +21,7 @@
  *		ExecEndHash		- shutdown node and subnodes
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <math.h>
 #include <limits.h>

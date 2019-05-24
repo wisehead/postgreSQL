@@ -19,7 +19,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/hash.h"
 #include "libpq/pqformat.h"

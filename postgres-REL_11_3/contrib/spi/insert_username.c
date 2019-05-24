@@ -4,7 +4,7 @@
  * insert user name in response to a trigger
  * usage:  insert_username (column_name)
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/htup_details.h"
 #include "catalog/pg_type.h"

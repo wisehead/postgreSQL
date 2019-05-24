@@ -69,7 +69,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #ifdef _MSC_VER
 #include <float.h>				/* for _isnan */

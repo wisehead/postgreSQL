@@ -17,7 +17,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/printtup.h"
 #include "lib/stringinfo.h"

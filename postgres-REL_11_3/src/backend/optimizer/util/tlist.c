@@ -12,7 +12,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "nodes/makefuncs.h"
 #include "nodes/nodeFuncs.h"

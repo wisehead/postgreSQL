@@ -17,7 +17,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/visibilitymap.h"
 #include "access/xact.h"

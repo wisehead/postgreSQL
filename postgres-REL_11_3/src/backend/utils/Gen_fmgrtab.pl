@@ -202,7 +202,7 @@ print $tfh <<TFH;
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/transam.h"
 #include "utils/fmgrtab.h"

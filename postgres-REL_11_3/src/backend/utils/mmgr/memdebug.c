@@ -53,7 +53,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "utils/memdebug.h"
 

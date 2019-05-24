@@ -83,7 +83,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 #include "storage/barrier.h"
 
 static inline bool BarrierDetachImpl(Barrier *barrier, bool arrive);

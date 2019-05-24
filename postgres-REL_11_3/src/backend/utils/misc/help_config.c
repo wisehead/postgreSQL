@@ -14,7 +14,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <float.h>
 #include <limits.h>

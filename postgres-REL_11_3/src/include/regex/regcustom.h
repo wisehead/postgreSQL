@@ -36,7 +36,7 @@
  * files specifically intend this file to supply application-dependent
  * headers, and are careful to include this file before anything else.
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 #include <limits.h>

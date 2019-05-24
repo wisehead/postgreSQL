@@ -26,7 +26,7 @@
  *		Arithmetic operators:
  *		 intmod
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <ctype.h>
 #include <limits.h>

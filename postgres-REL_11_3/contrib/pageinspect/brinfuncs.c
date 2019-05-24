@@ -7,7 +7,7 @@
  * IDENTIFICATION
  *		contrib/pageinspect/brinfuncs.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "pageinspect.h"
 

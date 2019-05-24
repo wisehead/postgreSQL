@@ -7,7 +7,7 @@
 #ifdef FRONTEND
 #include "postgres_fe.h"
 #else
-#include "postgres.h"
+#include "zql.h"
 #include "utils/builtins.h"
 #endif
 

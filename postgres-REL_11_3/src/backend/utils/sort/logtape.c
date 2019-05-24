@@ -80,7 +80,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "storage/buffile.h"
 #include "utils/builtins.h"

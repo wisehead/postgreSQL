@@ -53,7 +53,7 @@
  *	since users or third-party code might expect the traditional results.
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 

@@ -12,7 +12,7 @@
  *-------------------------------------------------------------------------
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "tsearch/ts_utils.h"
 #include "miscadmin.h"

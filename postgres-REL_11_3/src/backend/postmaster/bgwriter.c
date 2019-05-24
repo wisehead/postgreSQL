@@ -32,7 +32,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include <signal.h>
 #include <sys/time.h>

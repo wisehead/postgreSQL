@@ -11,7 +11,7 @@
   See funcs_new.c for examples of "new style".
 *****************************************************************************/
 
-#include "postgres.h"			/* general Postgres declarations */
+#include "zql.h"			/* general Postgres declarations */
 
 #include "executor/executor.h"	/* for GetAttributeByName() */
 #include "utils/geo_decls.h"	/* for point type */

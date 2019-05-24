@@ -66,7 +66,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/multixact.h"
 #include "access/slru.h"

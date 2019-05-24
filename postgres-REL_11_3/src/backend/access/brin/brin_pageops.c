@@ -8,7 +8,7 @@
  * IDENTIFICATION
  *	  src/backend/access/brin/brin_pageops.c
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/brin_pageops.h"
 #include "access/brin_page.h"

@@ -4,7 +4,7 @@
  * src/pl/plpython/plpy_exec.c
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/htup_details.h"
 #include "access/xact.h"

@@ -20,7 +20,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "storage/pg_sema.h"
 #include "storage/shmem.h"

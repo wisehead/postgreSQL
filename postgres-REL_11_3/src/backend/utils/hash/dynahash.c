@@ -81,7 +81,7 @@
  *		changed ctl structure for shared memory
  */
 
-#include "postgres.h"
+#include "zql.h"
 
 #include <limits.h>
 

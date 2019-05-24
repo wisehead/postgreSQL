@@ -14,7 +14,7 @@
  *
  *-------------------------------------------------------------------------
  */
-#include "postgres.h"
+#include "zql.h"
 
 #include "access/reloptions.h"
 #include "utils/attoptcache.h"
